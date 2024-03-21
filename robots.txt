@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nattaratu.github.io/portfolio/sitemap.xml

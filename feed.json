@@ -1,0 +1,85 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nathalie Tuovinen",
+    "description": "",
+    "home_page_url": "https://nattaratu.github.io/portfolio",
+    "feed_url": "https://nattaratu.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nathalie Tuovinen"
+    },
+    "items": [
+        {
+            "id": "https://nattaratu.github.io/portfolio/about.html",
+            "url": "https://nattaratu.github.io/portfolio/about.html",
+            "title": "About",
+            "summary": "blablalba CV",
+            "content_html": "\n  <p>\n    blablalba\n  </p>\n\n  <p>\n    CV\n  </p>",
+            "author": {
+                "name": "Nathalie Tuovinen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-12T14:13:17+01:00",
+            "date_modified": "2024-03-12T14:15:08+01:00"
+        },
+        {
+            "id": "https://nattaratu.github.io/portfolio/ui-editor.html",
+            "url": "https://nattaratu.github.io/portfolio/ui-editor.html",
+            "title": "UI Editor",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://nattaratu.github.io/portfolio/media/posts/5/highscore_server.png",
+            "author": {
+                "name": "Nathalie Tuovinen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-12T14:00:12+01:00",
+            "date_modified": "2024-03-12T14:11:31+01:00"
+        },
+        {
+            "id": "https://nattaratu.github.io/portfolio/snabb-grabb.html",
+            "url": "https://nattaratu.github.io/portfolio/snabb-grabb.html",
+            "title": "Snabb Grabb",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://nattaratu.github.io/portfolio/media/posts/4/stmop.png",
+            "author": {
+                "name": "Nathalie Tuovinen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-12T13:59:59+01:00",
+            "date_modified": "2024-03-12T14:11:37+01:00"
+        },
+        {
+            "id": "https://nattaratu.github.io/portfolio/test-2.html",
+            "url": "https://nattaratu.github.io/portfolio/test-2.html",
+            "title": "Spite: Eternal Night",
+            "summary": "caption",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"500\" width=\"1336\" alt=\"alt text\"  data-is-external-image=\"true\">\n      <figcaption>caption</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
+            "image": "https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png",
+            "author": {
+                "name": "Nathalie Tuovinen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-27T09:56:23+01:00",
+            "date_modified": "2024-03-12T14:11:41+01:00"
+        },
+        {
+            "id": "https://nattaratu.github.io/portfolio/test.html",
+            "url": "https://nattaratu.github.io/portfolio/test.html",
+            "title": "Larmet Gick 1941",
+            "summary": "Trailer",
+            "content_html": "<div><a href=\"https://www.youtube.com/watch?v=s16y1qExd9Q\">Trailer</a></div>\n\n  <p>\n    \n  </p>",
+            "image": "https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png",
+            "author": {
+                "name": "Nathalie Tuovinen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-27T09:51:38+01:00",
+            "date_modified": "2024-03-12T14:11:46+01:00"
+        }
+    ]
+}

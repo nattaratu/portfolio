@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Nathalie Tuovinen</title>
+    <link href="https://nattaratu.github.io/portfolio/feed.xml" rel="self" />
+    <link href="https://nattaratu.github.io/portfolio" />
+    <updated>2024-03-12T14:15:08+01:00</updated>
+    <author>
+        <name>Nathalie Tuovinen</name>
+    </author>
+    <id>https://nattaratu.github.io/portfolio</id>
+
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Nathalie Tuovinen</name>
+        </author>
+        <link href="https://nattaratu.github.io/portfolio/about.html"/>
+        <id>https://nattaratu.github.io/portfolio/about.html</id>
+
+        <updated>2024-03-12T14:15:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                    blablalba CV
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    blablalba
+  </p>
+
+  <p>
+    CV
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>UI Editor</title>
+        <author>
+            <name>Nathalie Tuovinen</name>
+        </author>
+        <link href="https://nattaratu.github.io/portfolio/ui-editor.html"/>
+        <id>https://nattaratu.github.io/portfolio/ui-editor.html</id>
+        <media:content url="https://nattaratu.github.io/portfolio/media/posts/5/highscore_server.png" medium="image" />
+
+        <updated>2024-03-12T14:11:31+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/5/highscore_server.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Snabb Grabb</title>
+        <author>
+            <name>Nathalie Tuovinen</name>
+        </author>
+        <link href="https://nattaratu.github.io/portfolio/snabb-grabb.html"/>
+        <id>https://nattaratu.github.io/portfolio/snabb-grabb.html</id>
+        <media:content url="https://nattaratu.github.io/portfolio/media/posts/4/stmop.png" medium="image" />
+
+        <updated>2024-03-12T14:11:37+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/4/stmop.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Spite: Eternal Night</title>
+        <author>
+            <name>Nathalie Tuovinen</name>
+        </author>
+        <link href="https://nattaratu.github.io/portfolio/test-2.html"/>
+        <id>https://nattaratu.github.io/portfolio/test-2.html</id>
+        <media:content url="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" medium="image" />
+
+        <updated>2024-03-12T14:11:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" alt="alt text feat img" />
+                    caption
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" class="type:primaryImage" alt="alt text feat img" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="" height="500" width="1336" alt="alt text"  data-is-external-image="true">
+      <figcaption>caption</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Larmet Gick 1941</title>
+        <author>
+            <name>Nathalie Tuovinen</name>
+        </author>
+        <link href="https://nattaratu.github.io/portfolio/test.html"/>
+        <id>https://nattaratu.github.io/portfolio/test.html</id>
+        <media:content url="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" medium="image" />
+
+        <updated>2024-03-12T14:11:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" alt="Test Alt Text" />
+                    Trailer
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" class="type:primaryImage" alt="Test Alt Text" /></p>
+                <div><a href="https://www.youtube.com/watch?v=s16y1qExd9Q">Trailer</a></div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
