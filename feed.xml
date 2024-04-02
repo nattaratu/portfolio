@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://nattaratu.github.io/portfolio" />
-    <updated>2024-03-12T14:15:08+01:00</updated>
+    <updated>2024-04-02T12:47:00+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -43,14 +43,63 @@
         </author>
         <link href="https://nattaratu.github.io/portfolio/ui-editor.html"/>
         <id>https://nattaratu.github.io/portfolio/ui-editor.html</id>
-        <media:content url="https://nattaratu.github.io/portfolio/media/posts/5/highscore_server.png" medium="image" />
+        <media:content url="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" medium="image" />
 
-        <updated>2024-03-12T14:11:31+01:00</updated>
-            <summary></summary>
+        <updated>2024-04-02T12:47:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" alt="" />
+                    I created UI Editor, Component system Features: &nbsp;- Save/Load &nbsp;- Add/Remove component &nbsp;- Scale/Size/Rotation/Position &nbsp;- Render order &nbsp;- Drag and&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/5/highscore_server.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" class="type:primaryImage" alt="" /></p>
                 
+  <p>
+    I created UI Editor, Component system
+  </p>
+
+  <p>
+    Features:<br>&nbsp;- Save/Load<br>&nbsp;- Add/Remove component<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions<br><br>Components<br>&nbsp;- Sprite<br>&nbsp;- Button<br>&nbsp;- SpriteSheet<br>&nbsp;- SpriteMorph<br>&nbsp;- Text<br>&nbsp;- TextField<br>
+  </p>
+
+  <p>
+    some stuff sorting, move to front / back, move forward / backwards
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/sorting.gif" height="316" width="598" alt="" >
+      <figcaption>Render order</figcaption>
+    </figure>
+
+  <p>
+    Change pixelshader
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/changeshaderdelete-2.gif" height="315" width="600" alt="" >
+      <figcaption>Change pixel shader and delete component</figcaption>
+    </figure>
+
+  <p>
+    Sprite Sheet, change amount of colums/rows the texture has and total playtime
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/spritesheet.gif" height="328" width="600" alt="" >
+      <figcaption>SpriteSheet</figcaption>
+    </figure>
+
+  <p>
+    This is some stuff i made, vertex shader, uses speed and radius on each vertex
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/morph.gif" height="328" width="600" alt="" >
+      <figcaption>SpriteMorph</figcaption>
+    </figure>
+
   <p>
     
   </p>

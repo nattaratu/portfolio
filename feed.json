@@ -27,15 +27,16 @@
             "id": "https://nattaratu.github.io/portfolio/ui-editor.html",
             "url": "https://nattaratu.github.io/portfolio/ui-editor.html",
             "title": "UI Editor",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://nattaratu.github.io/portfolio/media/posts/5/highscore_server.png",
+            "summary": "I created UI Editor, Component system Features: &nbsp;- Save/Load &nbsp;- Add/Remove component &nbsp;- Scale/Size/Rotation/Position &nbsp;- Render order &nbsp;- Drag and&hellip;",
+            "content_html": "\n  <p>\n    I created UI Editor, Component system\n  </p>\n\n  <p>\n    Features:<br>&nbsp;- Save/Load<br>&nbsp;- Add/Remove component<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions<br><br>Components<br>&nbsp;- Sprite<br>&nbsp;- Button<br>&nbsp;- SpriteSheet<br>&nbsp;- SpriteMorph<br>&nbsp;- Text<br>&nbsp;- TextField<br>\n  </p>\n\n  <p>\n    some stuff sorting, move to front / back, move forward / backwards\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/sorting.gif\" height=\"316\" width=\"598\" alt=\"\" >\n      <figcaption>Render order</figcaption>\n    </figure>\n\n  <p>\n    Change pixelshader\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/changeshaderdelete-2.gif\" height=\"315\" width=\"600\" alt=\"\" >\n      <figcaption>Change pixel shader and delete component</figcaption>\n    </figure>\n\n  <p>\n    Sprite Sheet, change amount of colums/rows the texture has and total playtime\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/spritesheet.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteSheet</figcaption>\n    </figure>\n\n  <p>\n    This is some stuff i made, vertex shader, uses speed and radius on each vertex\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/morph.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteMorph</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
+            "image": "https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png",
             "author": {
                 "name": "Nathalie Tuovinen"
             },
             "tags": [
             ],
             "date_published": "2024-03-12T14:00:12+01:00",
-            "date_modified": "2024-03-12T14:11:31+01:00"
+            "date_modified": "2024-04-02T12:47:00+02:00"
         },
         {
             "id": "https://nattaratu.github.io/portfolio/snabb-grabb.html",
