@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://nattaratu.github.io/portfolio" />
-    <updated>2024-04-02T12:47:00+02:00</updated>
+    <updated>2024-04-02T14:14:00+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -45,7 +45,7 @@
         <id>https://nattaratu.github.io/portfolio/ui-editor.html</id>
         <media:content url="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" medium="image" />
 
-        <updated>2024-04-02T12:47:00+02:00</updated>
+        <updated>2024-04-02T14:11:51+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" alt="" />
@@ -99,6 +99,10 @@
       <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/morph.gif" height="328" width="600" alt="" >
       <figcaption>SpriteMorph</figcaption>
     </figure>
+
+  <p>
+    More stuff todo<br>&nbsp;- Copy elements / components<br>&nbsp;- Parent / Child hierarchy&nbsp;<br>&nbsp;- Add more components such as animation (size/rotation/position)
+  </p>
 
   <p>
     
@@ -167,21 +171,33 @@
         <id>https://nattaratu.github.io/portfolio/test.html</id>
         <media:content url="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" medium="image" />
 
-        <updated>2024-03-12T14:11:46+01:00</updated>
+        <updated>2024-04-02T14:14:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" alt="Test Alt Text" />
-                    Trailer
+                        <img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" alt="" />
+                    Trailer Details My contributions Create / setup bare bone engineGridPlayer
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" class="type:primaryImage" alt="Test Alt Text" /></p>
+                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" class="type:primaryImage" alt="" /></p>
                 <div><a href="https://www.youtube.com/watch?v=s16y1qExd9Q">Trailer</a></div>
 
   <p>
-    
+    Details
   </p>
+
+  <ul>
+    <li>Engine: Crack Engine (own)</li><li>Duration:</li><li>Team:</li>
+  </ul>
+
+  <p>
+    My contributions
+  </p>
+
+  <ul>
+    <li>Create / setup bare bone engine</li><li>Grid</li><li>Player</li>
+  </ul>
             ]]>
         </content>
     </entry>
