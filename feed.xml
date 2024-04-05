@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://nattaratu.github.io/portfolio" />
-    <updated>2024-04-05T12:00:44+02:00</updated>
+    <updated>2024-04-05T14:07:45+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -17,33 +17,43 @@
         <link href="https://nattaratu.github.io/portfolio/about.html"/>
         <id>https://nattaratu.github.io/portfolio/about.html</id>
 
-        <updated>2024-04-05T11:05:17+02:00</updated>
+        <updated>2024-04-05T14:07:45+02:00</updated>
             <summary>
                 <![CDATA[
-                    I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game&hellip;
+                    some text text text i like to play valorant I am part of The Game Assembly’s internship program. As per&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-  <p class="msg msg--highlight">
-    <em>I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd.&nbsp;<br></em><em><br></em><em>Any internship offers can be made on May 6th, at the earliest.</em>
-  </p>
-
   <p>
-    
+    some text text text i like to play valorant
   </p>
 
     <h4 id="contact">
       Contact
     </h4>
-<div><a href="https://nattaratu.github.io/portfolio/media/files/CV%202024.pdf">CV</a>
+
+    <figure class="post__image--left post__iframe post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/6/me1.png" height="316" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-xs.png 384w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-sm.png 600w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-md.png 768w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-lg.png 1200w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-xl.png 1600w">
+      
+    </figure>
+<div><div class="post__iframe">
+<br>
+<a href="https://nattaratu.github.io/portfolio/media/files/CV%202024.pdf">CV</a>
 <br>
 <a href="https://www.linkedin.com/in/nathalie-tuovinen/">LinkedIn</a>
 <br>
 <a href="tel:+46-72-577-2202">+46 72 577 2202 </a>
 <br>
-<a href="mailto:nathalietuovinen@gmail.com">nathalietuovinen@gmail.com</a></div>
+<a href="mailto:nathalietuovinen@gmail.com">nathalietuovinen@gmail.com</a>
+<br>
+</div>
+</div>
+
+  <p class="msg msg--highlight">
+    <em>I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd.&nbsp;<br></em><em><br></em><em>Any internship offers can be made on May 6th, at the earliest.</em>
+  </p>
             ]]>
         </content>
     </entry>
@@ -56,7 +66,7 @@
         <id>https://nattaratu.github.io/portfolio/ui-editor.html</id>
         <media:content url="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" medium="image" />
 
-        <updated>2024-04-05T12:00:44+02:00</updated>
+        <updated>2024-04-05T12:45:30+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" alt="" />
@@ -83,8 +93,16 @@
     I created UI Editor, Component system
   </p>
 
+    <h4 id="ui-editorandnbsp">
+      UI Editor&nbsp;
+    </h4>
+
   <p class="msg msg--info">
-    Features<br>&nbsp;- Save/Load<br>&nbsp;- Add/Remove component<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions
+    UI Layout - canvas, the json file<br>UI Handler - saves/loads the Layout, updates/renders the Elements<br>Element - base object that has a name and transform<br>Component - transform and other attributes that fits the components usage<br>
+  </p>
+
+  <p class="msg msg--info">
+    Features<br>&nbsp;- Save/Load Layout<br>&nbsp;- Add/Remove Element/Component&nbsp;<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions
   </p>
 
   <p class="msg msg--info">
@@ -92,7 +110,7 @@
   </p>
 
   <p>
-    some stuff sorting, move to front / back, move forward / backwards
+    Functionality to move an element to front / back / forward / backwards
   </p>
 
     <figure class="post__image post__image--center">
@@ -101,7 +119,7 @@
     </figure>
 
   <p>
-    We used Direct3D 11 SpriteBatch, so to change pixel and vertexshader for specific sprites such as SpriteMorph
+    We used Direct3D 11 SpriteBatch, so to change pixel and vertexshader for specific sprites such as SpriteMorph or Glitch effect was done as shown below.<br>
   </p>
 
     <figure class="post__image post__image--center">
@@ -115,7 +133,7 @@
     </figure>
 
   <p>
-    This is some stuff i made, vertex shader, uses speed and radius on each vertex
+    The SpriteMorph uses a different vertex shader than the other sprites, the morph speed and radius for each vertex can be edited using the UI Editor.
   </p>
 
     <figure class="post__image post__image--center">
@@ -124,7 +142,7 @@
     </figure>
 
   <p>
-    Sprite Sheet, change amount of colums/rows the texture has and total playtime
+    SpriteSheet, in editor the amount of colums/rows and total playtime can be changed to fit the amount of animation frames and its speed.&nbsp;
   </p>
 
     <figure class="post__image post__image--center">
