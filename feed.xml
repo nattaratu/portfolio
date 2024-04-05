@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://nattaratu.github.io/portfolio" />
-    <updated>2024-04-02T14:14:00+02:00</updated>
+    <updated>2024-04-05T10:39:01+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -17,21 +17,26 @@
         <link href="https://nattaratu.github.io/portfolio/about.html"/>
         <id>https://nattaratu.github.io/portfolio/about.html</id>
 
-        <updated>2024-03-12T14:15:08+01:00</updated>
+        <updated>2024-04-05T10:39:01+02:00</updated>
             <summary>
                 <![CDATA[
-                    blablalba CV
+                    I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-  <p>
-    blablalba
+  <p class="msg msg--highlight">
+    <em>I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd.&nbsp;<br></em><em><br></em><em>Any internship offers can be made on May 6th, at the earliest.</em>
   </p>
 
   <p>
     CV
+  </p>
+<div><a href="nattaratu.github.io/portfolio/media/files/CV 2024.pdf"></a></div>
+
+  <p>
+    
   </p>
             ]]>
         </content>
@@ -45,23 +50,39 @@
         <id>https://nattaratu.github.io/portfolio/ui-editor.html</id>
         <media:content url="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" medium="image" />
 
-        <updated>2024-04-02T14:11:51+02:00</updated>
+        <updated>2024-04-05T10:19:47+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" alt="" />
-                    I created UI Editor, Component system Features: &nbsp;- Save/Load &nbsp;- Add/Remove component &nbsp;- Scale/Size/Rotation/Position &nbsp;- Render order &nbsp;- Drag and&hellip;
+                    Motivation / Goal stuff about how its easier with an editor rather than edit ui with code stuff bout goal&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" class="type:primaryImage" alt="" /></p>
                 
+    <h4 id="motivation-goal">
+      Motivation / Goal
+    </h4>
+
+  <p>
+    stuff about how its easier with an editor rather than edit ui with code
+  </p>
+
+  <p>
+    stuff bout goal how the editors purpose was to make the design of the layouts easier and faster
+  </p>
+
   <p>
     I created UI Editor, Component system
   </p>
 
-  <p>
-    Features:<br>&nbsp;- Save/Load<br>&nbsp;- Add/Remove component<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions<br><br>Components<br>&nbsp;- Sprite<br>&nbsp;- Button<br>&nbsp;- SpriteSheet<br>&nbsp;- SpriteMorph<br>&nbsp;- Text<br>&nbsp;- TextField<br>
+  <p class="msg msg--info">
+    Features<br>&nbsp;- Save/Load<br>&nbsp;- Add/Remove component<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions
+  </p>
+
+  <p class="msg msg--info">
+    Components<br> - Sprite<br> - Button<br> - SpriteSheet<br> - SpriteMorph<br> - Text<br> - TextField
   </p>
 
   <p>
@@ -74,8 +95,13 @@
     </figure>
 
   <p>
-    Change pixelshader
+    We used Direct3D 11 SpriteBatch, so to change pixel and vertexshader for specific sprites such as SpriteMorph
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/drawsprite.png" height="416" width="639" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-xs.png 384w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-sm.png 600w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-md.png 768w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-lg.png 1200w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-xl.png 1600w">
+      
+    </figure>
 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/changeshaderdelete-2.gif" height="315" width="600" alt="" >
@@ -100,8 +126,12 @@
       <figcaption>SpriteMorph</figcaption>
     </figure>
 
+    <h4 id="improvements">
+      Improvements
+    </h4>
+
   <p>
-    More stuff todo<br>&nbsp;- Copy elements / components<br>&nbsp;- Parent / Child hierarchy&nbsp;<br>&nbsp;- Add more components such as animation (size/rotation/position)
+    &nbsp;- Copy elements / components<br>&nbsp;- Parent / Child hierarchy&nbsp;<br>&nbsp;- Add more components such as animation (size/rotation/position)
   </p>
 
   <p>
@@ -119,15 +149,32 @@
         <id>https://nattaratu.github.io/portfolio/snabb-grabb.html</id>
         <media:content url="https://nattaratu.github.io/portfolio/media/posts/4/stmop.png" medium="image" />
 
-        <updated>2024-03-12T14:11:37+01:00</updated>
-            <summary></summary>
+        <updated>2024-04-05T10:15:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nattaratu.github.io/portfolio/media/posts/4/stmop.png" alt="" />
+                    Details Genre: FPSEngine: Crack Engine (own)Duration: 300 hoursTeam: 5 programmer, 5 artists, 3 designers Contributions UI,&nbsp;UI-EditorComicshaderVFXCardSystemOnline Highscore PostProcessing&nbsp;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://nattaratu.github.io/portfolio/media/posts/4/stmop.png" class="type:primaryImage" alt="" /></p>
                 
-  <p>
-    
-  </p>
+    <h4 id="details">
+      Details
+    </h4>
+
+  <ul>
+    <li>Genre: FPS</li><li>Engine: Crack Engine (own)</li><li>Duration: 300 hours</li><li>Team: 5 programmer, 5 artists, 3 designers<br></li>
+  </ul>
+
+    <h4 id="contributions">
+      Contributions
+    </h4>
+
+  <ul>
+    <li>UI,&nbsp;UI-Editor</li><li>Comicshader</li><li>VFX</li><li>CardSystem</li><li>Online Highscore<br></li><li>PostProcessing&nbsp;</li>
+  </ul>
             ]]>
         </content>
     </entry>
@@ -140,25 +187,32 @@
         <id>https://nattaratu.github.io/portfolio/test-2.html</id>
         <media:content url="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" medium="image" />
 
-        <updated>2024-03-12T14:11:41+01:00</updated>
+        <updated>2024-04-05T10:15:29+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" alt="alt text feat img" />
-                    caption
+                        <img src="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" alt="" />
+                    Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmer, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" class="type:primaryImage" alt="alt text feat img" /></p>
+                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" class="type:primaryImage" alt="" /></p>
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="" height="500" width="1336" alt="alt text"  data-is-external-image="true">
-      <figcaption>caption</figcaption>
-    </figure>
+    <h4 id="details">
+      Details
+    </h4>
 
-  <p>
-    
-  </p>
+  <ul>
+    <li>Genre: Diablo-like</li><li>Engine: Crack Engine (own)</li><li>Duration: 180 hours</li><li>Team: 6 programmer, 5 artists, 3 designers</li>
+  </ul>
+
+    <h4 id="contributions">
+      Contributions
+    </h4>
+
+  <ul>
+    <li>UI</li><li>VFX</li><li>Player movement and navmesh</li>
+  </ul>
             ]]>
         </content>
     </entry>
@@ -171,33 +225,33 @@
         <id>https://nattaratu.github.io/portfolio/test.html</id>
         <media:content url="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" medium="image" />
 
-        <updated>2024-04-02T14:14:00+02:00</updated>
+        <updated>2024-04-05T10:24:42+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" alt="" />
-                    Trailer Details My contributions Create / setup bare bone engineGridPlayer
+                    Details Genre: PuzzleEngine: Crack Engine (own)Duration:&nbsp;80 hoursTeam:&nbsp;6 programmer, 5 artists, 3 designers Contributions Create / setup bare bone engineLibrary implementation&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" class="type:primaryImage" alt="" /></p>
-                <div><a href="https://www.youtube.com/watch?v=s16y1qExd9Q">Trailer</a></div>
-
-  <p>
-    Details
-  </p>
-
-  <ul>
-    <li>Engine: Crack Engine (own)</li><li>Duration:</li><li>Team:</li>
-  </ul>
-
-  <p>
-    My contributions
-  </p>
+                
+    <h4 id="details">
+      Details
+    </h4>
 
   <ul>
-    <li>Create / setup bare bone engine</li><li>Grid</li><li>Player</li>
+    <li>Genre: Puzzle</li><li>Engine: Crack Engine (own)</li><li>Duration:&nbsp;80 hours</li><li>Team:&nbsp;6 programmer, 5 artists, 3 designers</li>
   </ul>
+
+    <h4 id="contributions">
+      Contributions
+    </h4>
+
+  <ul>
+    <li>Create / setup bare bone engine</li><li>Library implementation<br></li><li>Grid</li><li>Player</li>
+  </ul>
+<div><a href="https://www.youtube.com/watch?v=s16y1qExd9Q">Trailer</a></div>
             ]]>
         </content>
     </entry>

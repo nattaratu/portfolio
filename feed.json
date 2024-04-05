@@ -13,22 +13,22 @@
             "id": "https://nattaratu.github.io/portfolio/about.html",
             "url": "https://nattaratu.github.io/portfolio/about.html",
             "title": "About",
-            "summary": "blablalba CV",
-            "content_html": "\n  <p>\n    blablalba\n  </p>\n\n  <p>\n    CV\n  </p>",
+            "summary": "I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game&hellip;",
+            "content_html": "\n  <p class=\"msg msg--highlight\">\n    <em>I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd.&nbsp;<br></em><em><br></em><em>Any internship offers can be made on May 6th, at the earliest.</em>\n  </p>\n\n  <p>\n    CV\n  </p>\n<div><a href=\"nattaratu.github.io/portfolio/media/files/CV 2024.pdf\"></a></div>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Nathalie Tuovinen"
             },
             "tags": [
             ],
             "date_published": "2024-03-12T14:13:17+01:00",
-            "date_modified": "2024-03-12T14:15:08+01:00"
+            "date_modified": "2024-04-05T10:39:01+02:00"
         },
         {
             "id": "https://nattaratu.github.io/portfolio/ui-editor.html",
             "url": "https://nattaratu.github.io/portfolio/ui-editor.html",
             "title": "UI Editor",
-            "summary": "I created UI Editor, Component system Features: &nbsp;- Save/Load &nbsp;- Add/Remove component &nbsp;- Scale/Size/Rotation/Position &nbsp;- Render order &nbsp;- Drag and&hellip;",
-            "content_html": "\n  <p>\n    I created UI Editor, Component system\n  </p>\n\n  <p>\n    Features:<br>&nbsp;- Save/Load<br>&nbsp;- Add/Remove component<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions<br><br>Components<br>&nbsp;- Sprite<br>&nbsp;- Button<br>&nbsp;- SpriteSheet<br>&nbsp;- SpriteMorph<br>&nbsp;- Text<br>&nbsp;- TextField<br>\n  </p>\n\n  <p>\n    some stuff sorting, move to front / back, move forward / backwards\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/sorting.gif\" height=\"316\" width=\"598\" alt=\"\" >\n      <figcaption>Render order</figcaption>\n    </figure>\n\n  <p>\n    Change pixelshader\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/changeshaderdelete-2.gif\" height=\"315\" width=\"600\" alt=\"\" >\n      <figcaption>Change pixel shader and delete component</figcaption>\n    </figure>\n\n  <p>\n    Sprite Sheet, change amount of colums/rows the texture has and total playtime\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/spritesheet.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteSheet</figcaption>\n    </figure>\n\n  <p>\n    This is some stuff i made, vertex shader, uses speed and radius on each vertex\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/morph.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteMorph</figcaption>\n    </figure>\n\n  <p>\n    More stuff todo<br>&nbsp;- Copy elements / components<br>&nbsp;- Parent / Child hierarchy&nbsp;<br>&nbsp;- Add more components such as animation (size/rotation/position)\n  </p>\n\n  <p>\n    \n  </p>",
+            "summary": "Motivation / Goal stuff about how its easier with an editor rather than edit ui with code stuff bout goal&hellip;",
+            "content_html": "\n    <h4 id=\"motivation-goal\">\n      Motivation / Goal\n    </h4>\n\n  <p>\n    stuff about how its easier with an editor rather than edit ui with code\n  </p>\n\n  <p>\n    stuff bout goal how the editors purpose was to make the design of the layouts easier and faster\n  </p>\n\n  <p>\n    I created UI Editor, Component system\n  </p>\n\n  <p class=\"msg msg--info\">\n    Features<br>&nbsp;- Save/Load<br>&nbsp;- Add/Remove component<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions\n  </p>\n\n  <p class=\"msg msg--info\">\n    Components<br> - Sprite<br> - Button<br> - SpriteSheet<br> - SpriteMorph<br> - Text<br> - TextField\n  </p>\n\n  <p>\n    some stuff sorting, move to front / back, move forward / backwards\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/sorting.gif\" height=\"316\" width=\"598\" alt=\"\" >\n      <figcaption>Render order</figcaption>\n    </figure>\n\n  <p>\n    We used Direct3D 11 SpriteBatch, so to change pixel and vertexshader for specific sprites such as SpriteMorph\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/drawsprite.png\" height=\"416\" width=\"639\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-xs.png 384w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-sm.png 600w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-md.png 768w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-lg.png 1200w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-xl.png 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/changeshaderdelete-2.gif\" height=\"315\" width=\"600\" alt=\"\" >\n      <figcaption>Change pixel shader and delete component</figcaption>\n    </figure>\n\n  <p>\n    Sprite Sheet, change amount of colums/rows the texture has and total playtime\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/spritesheet.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteSheet</figcaption>\n    </figure>\n\n  <p>\n    This is some stuff i made, vertex shader, uses speed and radius on each vertex\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/morph.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteMorph</figcaption>\n    </figure>\n\n    <h4 id=\"improvements\">\n      Improvements\n    </h4>\n\n  <p>\n    &nbsp;- Copy elements / components<br>&nbsp;- Parent / Child hierarchy&nbsp;<br>&nbsp;- Add more components such as animation (size/rotation/position)\n  </p>\n\n  <p>\n    \n  </p>",
             "image": "https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png",
             "author": {
                 "name": "Nathalie Tuovinen"
@@ -36,13 +36,14 @@
             "tags": [
             ],
             "date_published": "2024-03-12T14:00:12+01:00",
-            "date_modified": "2024-04-02T14:11:51+02:00"
+            "date_modified": "2024-04-05T10:19:47+02:00"
         },
         {
             "id": "https://nattaratu.github.io/portfolio/snabb-grabb.html",
             "url": "https://nattaratu.github.io/portfolio/snabb-grabb.html",
             "title": "Snabb Grabb",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "summary": "Details Genre: FPSEngine: Crack Engine (own)Duration: 300 hoursTeam: 5 programmer, 5 artists, 3 designers Contributions UI,&nbsp;UI-EditorComicshaderVFXCardSystemOnline Highscore PostProcessing&nbsp;",
+            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: FPS</li><li>Engine: Crack Engine (own)</li><li>Duration: 300 hours</li><li>Team: 5 programmer, 5 artists, 3 designers<br></li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI,&nbsp;UI-Editor</li><li>Comicshader</li><li>VFX</li><li>CardSystem</li><li>Online Highscore<br></li><li>PostProcessing&nbsp;</li>\n  </ul>",
             "image": "https://nattaratu.github.io/portfolio/media/posts/4/stmop.png",
             "author": {
                 "name": "Nathalie Tuovinen"
@@ -50,14 +51,14 @@
             "tags": [
             ],
             "date_published": "2024-03-12T13:59:59+01:00",
-            "date_modified": "2024-03-12T14:11:37+01:00"
+            "date_modified": "2024-04-05T10:15:37+02:00"
         },
         {
             "id": "https://nattaratu.github.io/portfolio/test-2.html",
             "url": "https://nattaratu.github.io/portfolio/test-2.html",
             "title": "Spite: Eternal Night",
-            "summary": "caption",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"500\" width=\"1336\" alt=\"alt text\"  data-is-external-image=\"true\">\n      <figcaption>caption</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
+            "summary": "Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmer, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh",
+            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Diablo-like</li><li>Engine: Crack Engine (own)</li><li>Duration: 180 hours</li><li>Team: 6 programmer, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI</li><li>VFX</li><li>Player movement and navmesh</li>\n  </ul>",
             "image": "https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png",
             "author": {
                 "name": "Nathalie Tuovinen"
@@ -65,14 +66,14 @@
             "tags": [
             ],
             "date_published": "2024-02-27T09:56:23+01:00",
-            "date_modified": "2024-03-12T14:11:41+01:00"
+            "date_modified": "2024-04-05T10:15:29+02:00"
         },
         {
             "id": "https://nattaratu.github.io/portfolio/test.html",
             "url": "https://nattaratu.github.io/portfolio/test.html",
             "title": "Larmet Gick 1941",
-            "summary": "Trailer Details My contributions Create / setup bare bone engineGridPlayer",
-            "content_html": "<div><a href=\"https://www.youtube.com/watch?v=s16y1qExd9Q\">Trailer</a></div>\n\n  <p>\n    Details\n  </p>\n\n  <ul>\n    <li>Engine: Crack Engine (own)</li><li>Duration:</li><li>Team:</li>\n  </ul>\n\n  <p>\n    My contributions\n  </p>\n\n  <ul>\n    <li>Create / setup bare bone engine</li><li>Grid</li><li>Player</li>\n  </ul>",
+            "summary": "Details Genre: PuzzleEngine: Crack Engine (own)Duration:&nbsp;80 hoursTeam:&nbsp;6 programmer, 5 artists, 3 designers Contributions Create / setup bare bone engineLibrary implementation&hellip;",
+            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Puzzle</li><li>Engine: Crack Engine (own)</li><li>Duration:&nbsp;80 hours</li><li>Team:&nbsp;6 programmer, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>Create / setup bare bone engine</li><li>Library implementation<br></li><li>Grid</li><li>Player</li>\n  </ul>\n<div><a href=\"https://www.youtube.com/watch?v=s16y1qExd9Q\">Trailer</a></div>",
             "image": "https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png",
             "author": {
                 "name": "Nathalie Tuovinen"
@@ -80,7 +81,7 @@
             "tags": [
             ],
             "date_published": "2024-02-27T09:51:38+01:00",
-            "date_modified": "2024-04-02T14:14:00+02:00"
+            "date_modified": "2024-04-05T10:24:42+02:00"
         }
     ]
 }
