@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://nattaratu.github.io/portfolio" />
-    <updated>2024-04-05T10:39:01+02:00</updated>
+    <updated>2024-04-05T10:53:05+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://nattaratu.github.io/portfolio/about.html"/>
         <id>https://nattaratu.github.io/portfolio/about.html</id>
 
-        <updated>2024-04-05T10:39:01+02:00</updated>
+        <updated>2024-04-05T10:53:05+02:00</updated>
             <summary>
                 <![CDATA[
                     I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game&hellip;
@@ -31,13 +31,19 @@
   </p>
 
   <p>
-    CV
-  </p>
-<div><a href="nattaratu.github.io/portfolio/media/files/CV 2024.pdf"></a></div>
-
-  <p>
     
   </p>
+
+    <h4 id="contact">
+      Contact
+    </h4>
+<div><a href="https://www.nattaratu.github.io/portfolio/media/files/CV 2024.pdf">CV</a>
+<br>
+<a href="https://www.linkedin.com/in/nathalie-tuovinen/">LinkedIn</a>
+<br>
+<a href="tel:+46-72-577-2202">+46 72 577 2202 </a>
+<br>
+<a href="mailto:nathalietuovinen@gmail.com">nathalietuovinen@gmail.com</a></div>
             ]]>
         </content>
     </entry>
