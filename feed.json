@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Nathalie Tuovinen",
     "description": "",
-    "home_page_url": "https://nattaratu.github.io/portfolio",
-    "feed_url": "https://nattaratu.github.io/portfolio/feed.json",
+    "home_page_url": "https://nattaratu.dev",
+    "feed_url": "https://nattaratu.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Nathalie Tuovinen"
     },
     "items": [
         {
-            "id": "https://nattaratu.github.io/portfolio/about.html",
-            "url": "https://nattaratu.github.io/portfolio/about.html",
+            "id": "https://nattaratu.dev/about.html",
+            "url": "https://nattaratu.dev/about.html",
             "title": "About",
             "summary": "some text text text i like to play valorant I am part of The Game Assembly’s internship program. As per&hellip;",
-            "content_html": "\n  <p>\n    some text text text i like to play valorant\n  </p>\n\n    <h4 id=\"contact\">\n      Contact\n    </h4>\n\n    <figure class=\"post__image--left post__iframe post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/6/me1.png\" height=\"316\" width=\"222\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-xs.png 384w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-sm.png 600w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-md.png 768w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-lg.png 1200w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-xl.png 1600w\">\n      \n    </figure>\n<div><div class=\"post__iframe\">\n<br>\n<a href=\"https://nattaratu.github.io/portfolio/media/files/CV%202024.pdf\">CV</a>\n<br>\n<a href=\"https://www.linkedin.com/in/nathalie-tuovinen/\">LinkedIn</a>\n<br>\n<a href=\"tel:+46-72-577-2202\">+46 72 577 2202 </a>\n<br>\n<a href=\"mailto:nathalietuovinen@gmail.com\">nathalietuovinen@gmail.com</a>\n<br>\n</div>\n</div>\n\n  <p class=\"msg msg--highlight\">\n    <em>I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd.&nbsp;<br></em><em><br></em><em>Any internship offers can be made on May 6th, at the earliest.</em>\n  </p>",
+            "content_html": "\n  <p>\n    some text text text i like to play valorant\n  </p>\n\n    <h4 id=\"contact\">\n      Contact\n    </h4>\n\n    <figure class=\"post__image--left post__iframe post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/6/me1.png\" height=\"316\" width=\"222\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://nattaratu.dev/media/posts/6/responsive/me1-xs.png 384w ,https://nattaratu.dev/media/posts/6/responsive/me1-sm.png 600w ,https://nattaratu.dev/media/posts/6/responsive/me1-md.png 768w ,https://nattaratu.dev/media/posts/6/responsive/me1-lg.png 1200w ,https://nattaratu.dev/media/posts/6/responsive/me1-xl.png 1600w\">\n      \n    </figure>\n<div><div class=\"post__iframe\">\n<br>\n<a href=\"https://nattaratu.github.io/portfolio/media/files/CV%202024.pdf\">CV</a>\n<br>\n<a href=\"https://www.linkedin.com/in/nathalie-tuovinen/\">LinkedIn</a>\n<br>\n<a href=\"tel:+46-72-577-2202\">+46 72 577 2202 </a>\n<br>\n<a href=\"mailto:nathalietuovinen@gmail.com\">nathalietuovinen@gmail.com</a>\n<br>\n</div>\n</div>\n\n  <p class=\"msg msg--highlight\">\n    <em>I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd.&nbsp;<br></em><em><br></em><em>Any internship offers can be made on May 6th, at the earliest.</em>\n  </p>",
             "author": {
                 "name": "Nathalie Tuovinen"
             },
@@ -24,12 +24,12 @@
             "date_modified": "2024-04-08T23:25:41+02:00"
         },
         {
-            "id": "https://nattaratu.github.io/portfolio/ui-editor.html",
-            "url": "https://nattaratu.github.io/portfolio/ui-editor.html",
+            "id": "https://nattaratu.dev/ui-editor.html",
+            "url": "https://nattaratu.dev/ui-editor.html",
             "title": "UI Editor",
             "summary": "Motivation / Goal stuff about how its easier with an editor rather than edit ui with code stuff bout goal&hellip;",
-            "content_html": "\n    <h4 id=\"motivation-goal\">\n      Motivation / Goal\n    </h4>\n\n  <p>\n    stuff about how its easier with an editor rather than edit ui with code\n  </p>\n\n  <p>\n    stuff bout goal how the editors purpose was to make the design of the layouts easier and faster\n  </p>\n\n  <p>\n    I created UI Editor, Component system\n  </p>\n\n    <h4 id=\"ui-editorandnbsp\">\n      UI Editor&nbsp;\n    </h4>\n\n  <p class=\"msg msg--info\">\n    UI Layout - canvas, the json file<br>UI Handler - saves/loads the Layout, updates/renders the Elements<br>Element - base object that has a name and transform<br>Component - transform and other attributes that fits the components usage<br>\n  </p>\n\n  <p class=\"msg msg--info\">\n    Features<br>&nbsp;- Save/Load Layout<br>&nbsp;- Add/Remove Element/Component&nbsp;<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions\n  </p>\n\n  <p class=\"msg msg--info\">\n    Components<br> - Sprite<br> - Button<br> - SpriteSheet<br> - SpriteMorph<br> - Text<br> - TextField\n  </p>\n\n  <p>\n    Functionality to move an element to front / back / forward / backwards\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/sorting.gif\" height=\"316\" width=\"598\" alt=\"\" >\n      <figcaption>Render order</figcaption>\n    </figure>\n\n  <p>\n    We used Direct3D 11 SpriteBatch, so to change pixel and vertexshader for specific sprites such as SpriteMorph or Glitch effect was done as shown below.<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/drawsprite.png\" height=\"416\" width=\"639\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-xs.png 384w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-sm.png 600w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-md.png 768w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-lg.png 1200w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-xl.png 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/changeshaderdelete-2.gif\" height=\"315\" width=\"600\" alt=\"\" >\n      <figcaption>Change pixel shader and delete component</figcaption>\n    </figure>\n\n  <p>\n    The SpriteMorph uses a different vertex shader than the other sprites, the morph speed and radius for each vertex can be edited using the UI Editor.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/morph.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteMorph</figcaption>\n    </figure>\n\n  <p>\n    SpriteSheet, in editor the amount of colums/rows and total playtime can be changed to fit the amount of animation frames and its speed.&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.github.io/portfolio/media/posts/5/spritesheet.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteSheet, Drag and drop</figcaption>\n    </figure>\n\n    <h4 id=\"improvements\">\n      Improvements\n    </h4>\n\n  <p>\n    &nbsp;- Copy elements / components<br>&nbsp;- Parent / Child hierarchy&nbsp;<br>&nbsp;- Add more components such as animation (size/rotation/position)\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png",
+            "content_html": "\n    <h4 id=\"motivation-goal\">\n      Motivation / Goal\n    </h4>\n\n  <p>\n    stuff about how its easier with an editor rather than edit ui with code\n  </p>\n\n  <p>\n    stuff bout goal how the editors purpose was to make the design of the layouts easier and faster\n  </p>\n\n  <p>\n    I created UI Editor, Component system\n  </p>\n\n    <h4 id=\"ui-editorandnbsp\">\n      UI Editor&nbsp;\n    </h4>\n\n  <p class=\"msg msg--info\">\n    UI Layout - canvas, the json file<br>UI Handler - saves/loads the Layout, updates/renders the Elements<br>Element - base object that has a name and transform<br>Component - transform and other attributes that fits the components usage<br>\n  </p>\n\n  <p class=\"msg msg--info\">\n    Features<br>&nbsp;- Save/Load Layout<br>&nbsp;- Add/Remove Element/Component&nbsp;<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions\n  </p>\n\n  <p class=\"msg msg--info\">\n    Components<br> - Sprite<br> - Button<br> - SpriteSheet<br> - SpriteMorph<br> - Text<br> - TextField\n  </p>\n\n  <p>\n    Functionality to move an element to front / back / forward / backwards\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/5/sorting.gif\" height=\"316\" width=\"598\" alt=\"\" >\n      <figcaption>Render order</figcaption>\n    </figure>\n\n  <p>\n    We used Direct3D 11 SpriteBatch, so to change pixel and vertexshader for specific sprites such as SpriteMorph or Glitch effect was done as shown below.<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/5/drawsprite.png\" height=\"416\" width=\"639\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://nattaratu.dev/media/posts/5/responsive/drawsprite-xs.png 384w ,https://nattaratu.dev/media/posts/5/responsive/drawsprite-sm.png 600w ,https://nattaratu.dev/media/posts/5/responsive/drawsprite-md.png 768w ,https://nattaratu.dev/media/posts/5/responsive/drawsprite-lg.png 1200w ,https://nattaratu.dev/media/posts/5/responsive/drawsprite-xl.png 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/5/changeshaderdelete-2.gif\" height=\"315\" width=\"600\" alt=\"\" >\n      <figcaption>Change pixel shader and delete component</figcaption>\n    </figure>\n\n  <p>\n    The SpriteMorph uses a different vertex shader than the other sprites, the morph speed and radius for each vertex can be edited using the UI Editor.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/5/morph.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteMorph</figcaption>\n    </figure>\n\n  <p>\n    SpriteSheet, in editor the amount of colums/rows and total playtime can be changed to fit the amount of animation frames and its speed.&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/5/spritesheet.gif\" height=\"328\" width=\"600\" alt=\"\" >\n      <figcaption>SpriteSheet, Drag and drop</figcaption>\n    </figure>\n\n    <h4 id=\"improvements\">\n      Improvements\n    </h4>\n\n  <p>\n    &nbsp;- Copy elements / components<br>&nbsp;- Parent / Child hierarchy&nbsp;<br>&nbsp;- Add more components such as animation (size/rotation/position)\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://nattaratu.dev/media/posts/5/uiEditor-4.png",
             "author": {
                 "name": "Nathalie Tuovinen"
             },
@@ -39,12 +39,12 @@
             "date_modified": "2024-04-05T12:45:30+02:00"
         },
         {
-            "id": "https://nattaratu.github.io/portfolio/snabb-grabb.html",
-            "url": "https://nattaratu.github.io/portfolio/snabb-grabb.html",
+            "id": "https://nattaratu.dev/snabb-grabb.html",
+            "url": "https://nattaratu.dev/snabb-grabb.html",
             "title": "Snabb Grabb",
             "summary": "Details Genre: FPSEngine: Crack Engine (own)Duration: 300 hoursTeam: 5 programmer, 5 artists, 3 designers Contributions UI,&nbsp;UI-EditorComicshaderVFXCardSystemOnline Highscore PostProcessing&nbsp;",
             "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: FPS</li><li>Engine: Crack Engine (own)</li><li>Duration: 300 hours</li><li>Team: 5 programmer, 5 artists, 3 designers<br></li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI,&nbsp;UI-Editor</li><li>Comicshader</li><li>VFX</li><li>CardSystem</li><li>Online Highscore<br></li><li>PostProcessing&nbsp;</li>\n  </ul>",
-            "image": "https://nattaratu.github.io/portfolio/media/posts/4/stmop.png",
+            "image": "https://nattaratu.dev/media/posts/4/stmop.png",
             "author": {
                 "name": "Nathalie Tuovinen"
             },
@@ -54,12 +54,12 @@
             "date_modified": "2024-04-05T10:15:37+02:00"
         },
         {
-            "id": "https://nattaratu.github.io/portfolio/test-2.html",
-            "url": "https://nattaratu.github.io/portfolio/test-2.html",
+            "id": "https://nattaratu.dev/test-2.html",
+            "url": "https://nattaratu.dev/test-2.html",
             "title": "Spite: Eternal Night",
             "summary": "Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmer, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh",
             "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Diablo-like</li><li>Engine: Crack Engine (own)</li><li>Duration: 180 hours</li><li>Team: 6 programmer, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI</li><li>VFX</li><li>Player movement and navmesh</li>\n  </ul>",
-            "image": "https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png",
+            "image": "https://nattaratu.dev/media/posts/3/Showcase_0.png",
             "author": {
                 "name": "Nathalie Tuovinen"
             },
@@ -69,12 +69,12 @@
             "date_modified": "2024-04-05T10:15:29+02:00"
         },
         {
-            "id": "https://nattaratu.github.io/portfolio/test.html",
-            "url": "https://nattaratu.github.io/portfolio/test.html",
+            "id": "https://nattaratu.dev/test.html",
+            "url": "https://nattaratu.dev/test.html",
             "title": "Larmet Gick 1941",
             "summary": "Details Genre: PuzzleEngine: Crack Engine (own)Duration:&nbsp;80 hoursTeam:&nbsp;6 programmer, 5 artists, 3 designers Contributions Create / setup bare bone engineLibrary implementation&hellip;",
             "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Puzzle</li><li>Engine: Crack Engine (own)</li><li>Duration:&nbsp;80 hours</li><li>Team:&nbsp;6 programmer, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>Create / setup bare bone engine</li><li>Library implementation<br></li><li>Grid</li><li>Player</li>\n  </ul>\n<div><a href=\"https://www.youtube.com/watch?v=s16y1qExd9Q\">Trailer</a></div>",
-            "image": "https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png",
+            "image": "https://nattaratu.dev/media/posts/2/lg1941-2.png",
             "author": {
                 "name": "Nathalie Tuovinen"
             },

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Nathalie Tuovinen</title>
-    <link href="https://nattaratu.github.io/portfolio/feed.xml" rel="self" />
-    <link href="https://nattaratu.github.io/portfolio" />
+    <link href="https://nattaratu.dev/feed.xml" rel="self" />
+    <link href="https://nattaratu.dev" />
     <updated>2024-04-08T23:25:41+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
-    <id>https://nattaratu.github.io/portfolio</id>
+    <id>https://nattaratu.dev</id>
 
     <entry>
         <title>About</title>
         <author>
             <name>Nathalie Tuovinen</name>
         </author>
-        <link href="https://nattaratu.github.io/portfolio/about.html"/>
-        <id>https://nattaratu.github.io/portfolio/about.html</id>
+        <link href="https://nattaratu.dev/about.html"/>
+        <id>https://nattaratu.dev/about.html</id>
 
         <updated>2024-03-12T14:13:17+01:00</updated>
             <summary>
@@ -35,7 +35,7 @@
     </h4>
 
     <figure class="post__image--left post__iframe post__image post__image--center">
-      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/6/me1.png" height="316" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-xs.png 384w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-sm.png 600w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-md.png 768w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-lg.png 1200w ,https://nattaratu.github.io/portfolio/media/posts/6/responsive/me1-xl.png 1600w">
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/6/me1.png" height="316" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://nattaratu.dev/media/posts/6/responsive/me1-xs.png 384w ,https://nattaratu.dev/media/posts/6/responsive/me1-sm.png 600w ,https://nattaratu.dev/media/posts/6/responsive/me1-md.png 768w ,https://nattaratu.dev/media/posts/6/responsive/me1-lg.png 1200w ,https://nattaratu.dev/media/posts/6/responsive/me1-xl.png 1600w">
       
     </figure>
 <div><div class="post__iframe">
@@ -62,20 +62,20 @@
         <author>
             <name>Nathalie Tuovinen</name>
         </author>
-        <link href="https://nattaratu.github.io/portfolio/ui-editor.html"/>
-        <id>https://nattaratu.github.io/portfolio/ui-editor.html</id>
-        <media:content url="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" medium="image" />
+        <link href="https://nattaratu.dev/ui-editor.html"/>
+        <id>https://nattaratu.dev/ui-editor.html</id>
+        <media:content url="https://nattaratu.dev/media/posts/5/uiEditor-4.png" medium="image" />
 
         <updated>2024-03-12T14:00:12+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" alt="" />
+                        <img src="https://nattaratu.dev/media/posts/5/uiEditor-4.png" alt="" />
                     Motivation / Goal stuff about how its easier with an editor rather than edit ui with code stuff bout goal&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/5/uiEditor-4.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://nattaratu.dev/media/posts/5/uiEditor-4.png" class="type:primaryImage" alt="" /></p>
                 
     <h4 id="motivation-goal">
       Motivation / Goal
@@ -114,7 +114,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/sorting.gif" height="316" width="598" alt="" >
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/5/sorting.gif" height="316" width="598" alt="" >
       <figcaption>Render order</figcaption>
     </figure>
 
@@ -123,12 +123,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/drawsprite.png" height="416" width="639" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-xs.png 384w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-sm.png 600w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-md.png 768w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-lg.png 1200w ,https://nattaratu.github.io/portfolio/media/posts/5/responsive/drawsprite-xl.png 1600w">
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/5/drawsprite.png" height="416" width="639" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://nattaratu.dev/media/posts/5/responsive/drawsprite-xs.png 384w ,https://nattaratu.dev/media/posts/5/responsive/drawsprite-sm.png 600w ,https://nattaratu.dev/media/posts/5/responsive/drawsprite-md.png 768w ,https://nattaratu.dev/media/posts/5/responsive/drawsprite-lg.png 1200w ,https://nattaratu.dev/media/posts/5/responsive/drawsprite-xl.png 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/changeshaderdelete-2.gif" height="315" width="600" alt="" >
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/5/changeshaderdelete-2.gif" height="315" width="600" alt="" >
       <figcaption>Change pixel shader and delete component</figcaption>
     </figure>
 
@@ -137,7 +137,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/morph.gif" height="328" width="600" alt="" >
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/5/morph.gif" height="328" width="600" alt="" >
       <figcaption>SpriteMorph</figcaption>
     </figure>
 
@@ -146,7 +146,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://nattaratu.github.io/portfolio/media/posts/5/spritesheet.gif" height="328" width="600" alt="" >
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/5/spritesheet.gif" height="328" width="600" alt="" >
       <figcaption>SpriteSheet, Drag and drop</figcaption>
     </figure>
 
@@ -169,20 +169,20 @@
         <author>
             <name>Nathalie Tuovinen</name>
         </author>
-        <link href="https://nattaratu.github.io/portfolio/snabb-grabb.html"/>
-        <id>https://nattaratu.github.io/portfolio/snabb-grabb.html</id>
-        <media:content url="https://nattaratu.github.io/portfolio/media/posts/4/stmop.png" medium="image" />
+        <link href="https://nattaratu.dev/snabb-grabb.html"/>
+        <id>https://nattaratu.dev/snabb-grabb.html</id>
+        <media:content url="https://nattaratu.dev/media/posts/4/stmop.png" medium="image" />
 
         <updated>2024-03-12T13:59:59+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nattaratu.github.io/portfolio/media/posts/4/stmop.png" alt="" />
+                        <img src="https://nattaratu.dev/media/posts/4/stmop.png" alt="" />
                     Details Genre: FPSEngine: Crack Engine (own)Duration: 300 hoursTeam: 5 programmer, 5 artists, 3 designers Contributions UI,&nbsp;UI-EditorComicshaderVFXCardSystemOnline Highscore PostProcessing&nbsp;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/4/stmop.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://nattaratu.dev/media/posts/4/stmop.png" class="type:primaryImage" alt="" /></p>
                 
     <h4 id="details">
       Details
@@ -207,20 +207,20 @@
         <author>
             <name>Nathalie Tuovinen</name>
         </author>
-        <link href="https://nattaratu.github.io/portfolio/test-2.html"/>
-        <id>https://nattaratu.github.io/portfolio/test-2.html</id>
-        <media:content url="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" medium="image" />
+        <link href="https://nattaratu.dev/test-2.html"/>
+        <id>https://nattaratu.dev/test-2.html</id>
+        <media:content url="https://nattaratu.dev/media/posts/3/Showcase_0.png" medium="image" />
 
         <updated>2024-02-27T09:56:23+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" alt="" />
+                        <img src="https://nattaratu.dev/media/posts/3/Showcase_0.png" alt="" />
                     Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmer, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/3/Showcase_0.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://nattaratu.dev/media/posts/3/Showcase_0.png" class="type:primaryImage" alt="" /></p>
                 
     <h4 id="details">
       Details
@@ -245,20 +245,20 @@
         <author>
             <name>Nathalie Tuovinen</name>
         </author>
-        <link href="https://nattaratu.github.io/portfolio/test.html"/>
-        <id>https://nattaratu.github.io/portfolio/test.html</id>
-        <media:content url="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" medium="image" />
+        <link href="https://nattaratu.dev/test.html"/>
+        <id>https://nattaratu.dev/test.html</id>
+        <media:content url="https://nattaratu.dev/media/posts/2/lg1941-2.png" medium="image" />
 
         <updated>2024-02-27T09:51:38+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" alt="" />
+                        <img src="https://nattaratu.dev/media/posts/2/lg1941-2.png" alt="" />
                     Details Genre: PuzzleEngine: Crack Engine (own)Duration:&nbsp;80 hoursTeam:&nbsp;6 programmer, 5 artists, 3 designers Contributions Create / setup bare bone engineLibrary implementation&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nattaratu.github.io/portfolio/media/posts/2/lg1941-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://nattaratu.dev/media/posts/2/lg1941-2.png" class="type:primaryImage" alt="" /></p>
                 
     <h4 id="details">
       Details
