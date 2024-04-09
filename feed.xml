@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.dev/feed.xml" rel="self" />
     <link href="https://nattaratu.dev" />
-    <updated>2024-04-09T14:44:02+02:00</updated>
+    <updated>2024-04-09T15:19:46+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -26,20 +26,16 @@
         <content type="html">
             <![CDATA[
                 
-  <p>
-    some text text text i like to play valorant
-  </p>
-
-    <h4 id="contact">
-      Contact
-    </h4>
-
-    <figure class="post__image--left post__iframe post__image post__image--center">
+    <figure class="post__iframe post__image--left post__image post__image--center">
       <img loading="lazy" src="https://nattaratu.dev/media/posts/6/me1.png" height="316" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://nattaratu.dev/media/posts/6/responsive/me1-xs.png 384w ,https://nattaratu.dev/media/posts/6/responsive/me1-sm.png 600w ,https://nattaratu.dev/media/posts/6/responsive/me1-md.png 768w ,https://nattaratu.dev/media/posts/6/responsive/me1-lg.png 1200w ,https://nattaratu.dev/media/posts/6/responsive/me1-xl.png 1600w">
       
     </figure>
+
+  <p>
+    some text text text i like to play valorant
+  </p>
 <div><div class="post__iframe">
-<br>
+<h4 class="post__title">Contact</h4>
 <a href="https://nattaratu.github.io/portfolio/media/files/Nathalie_Tuovinen_CV.pdf">CV</a>
 <br>
 <a href="https://www.linkedin.com/in/nathalie-tuovinen/">LinkedIn</a>
