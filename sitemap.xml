@@ -14,9 +14,9 @@
 </url>
 <url>
 <loc>https://nattaratu.dev/snabb-grabb.html</loc>
-<lastmod>2024-04-05T10:15:37+02:00</lastmod>
+<lastmod>2024-04-09T13:16:18+02:00</lastmod>
 <image:image>
-<image:loc>https://nattaratu.dev/media/posts/4/stmop.png</image:loc>
+<image:loc>https://nattaratu.dev/media/posts/4/sg.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -38,7 +38,7 @@
 </url>
 <url>
 <loc>https://nattaratu.dev/ui-editor.html</loc>
-<lastmod>2024-04-05T12:45:30+02:00</lastmod>
+<lastmod>2024-04-09T13:23:02+02:00</lastmod>
 <image:image>
 <image:loc>https://nattaratu.dev/media/posts/5/uiEditor-4.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -61,6 +61,10 @@
 </image:image>
 <image:image>
 <image:loc>https://nattaratu.dev/media/posts/5/spritesheet.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nattaratu.dev/media/posts/5/textfield.gif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

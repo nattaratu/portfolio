@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.dev/feed.xml" rel="self" />
     <link href="https://nattaratu.dev" />
-    <updated>2024-04-08T23:25:41+02:00</updated>
+    <updated>2024-04-09T13:23:02+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -70,7 +70,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://nattaratu.dev/media/posts/5/uiEditor-4.png" alt="" />
-                    Motivation / Goal stuff about how its easier with an editor rather than edit ui with code stuff bout goal&hellip;
+                    Motivation / Goal My motivation for this project was that it takes a lot of time and polish to move&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -82,15 +82,11 @@
     </h4>
 
   <p>
-    stuff about how its easier with an editor rather than edit ui with code
+    My motivation for this project was that it takes a lot of time and polish to move the UI to the desired place etc. Therefore the editor purpose was to make the design of the UI layouts easier and faster.&nbsp;
   </p>
 
   <p>
-    stuff bout goal how the editors purpose was to make the design of the layouts easier and faster
-  </p>
-
-  <p>
-    I created UI Editor, Component system
+    I created a UI Editor with Component system
   </p>
 
     <h4 id="ui-editorandnbsp">
@@ -98,15 +94,15 @@
     </h4>
 
   <p class="msg msg--info">
-    UI Layout - canvas, the json file<br>UI Handler - saves/loads the Layout, updates/renders the Elements<br>Element - base object that has a name and transform<br>Component - transform and other attributes that fits the components usage<br>
+    Breakdown<br>&nbsp; UI Layout - canvas, the json file<br>&nbsp; UI Handler - saves/loads the layout, updates/renders the elements<br>&nbsp; Element - base object that has a id, name and transform<br>&nbsp; Component - transform and other attributes that fits the components usage<br>
   </p>
 
   <p class="msg msg--info">
-    Features<br>&nbsp;- Save/Load Layout<br>&nbsp;- Add/Remove Element/Component&nbsp;<br>&nbsp;- Scale/Size/Rotation/Position<br>&nbsp;- Render order<br>&nbsp;- Drag and drop textures<br>&nbsp;- Change pixel shader<br>&nbsp;- Button functions
+    Features<br>&nbsp; Save/Load Layout<br>&nbsp; Add/Remove Element/Component&nbsp;<br>&nbsp; Scale/Size/Rotation/Position<br>&nbsp; Render order<br>&nbsp; Drag and drop textures<br>&nbsp; Change pixel shader<br>&nbsp;&nbsp;Button functions
   </p>
 
   <p class="msg msg--info">
-    Components<br> - Sprite<br> - Button<br> - SpriteSheet<br> - SpriteMorph<br> - Text<br> - TextField
+    Components<br>&nbsp;Sprite<br>&nbsp;Button<br>&nbsp;SpriteSheet<br>&nbsp;SpriteMorph<br>&nbsp;Text<br>&nbsp;TextField
   </p>
 
   <p>
@@ -150,6 +146,15 @@
       <figcaption>SpriteSheet, Drag and drop</figcaption>
     </figure>
 
+  <p>
+    Textfield, when its selected you can type
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/5/textfield.gif" height="190" width="454" alt="" >
+      
+    </figure>
+
     <h4 id="improvements">
       Improvements
     </h4>
@@ -171,18 +176,18 @@
         </author>
         <link href="https://nattaratu.dev/snabb-grabb.html"/>
         <id>https://nattaratu.dev/snabb-grabb.html</id>
-        <media:content url="https://nattaratu.dev/media/posts/4/stmop.png" medium="image" />
+        <media:content url="https://nattaratu.dev/media/posts/4/sg.png" medium="image" />
 
         <updated>2024-03-12T13:59:59+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nattaratu.dev/media/posts/4/stmop.png" alt="" />
+                        <img src="https://nattaratu.dev/media/posts/4/sg.png" alt="" />
                     Details Genre: FPSEngine: Crack Engine (own)Duration: 300 hoursTeam: 5 programmer, 5 artists, 3 designers Contributions UI,&nbsp;UI-EditorComicshaderVFXCardSystemOnline Highscore PostProcessing&nbsp;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nattaratu.dev/media/posts/4/stmop.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://nattaratu.dev/media/posts/4/sg.png" class="type:primaryImage" alt="" /></p>
                 
     <h4 id="details">
       Details
