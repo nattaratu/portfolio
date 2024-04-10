@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.dev/feed.xml" rel="self" />
     <link href="https://nattaratu.dev" />
-    <updated>2024-04-10T08:32:30+02:00</updated>
+    <updated>2024-04-10T08:34:51+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -106,7 +106,7 @@
   </p>
 
   <p>
-    Each element can have multiple components of different types, this work well because the element has a base transform, therefore you can offset the components transform for more flexibility. For example creating a main menu background but also have a text with the game title and be able to move the title anywhere, instead of creating a new element for only one purpose.<br>
+    Each element can have multiple components of different types, this works well because the element has a base transform, therefore you can offset the components transform for more flexibility. For example creating a main menu background but also have a text with the game title and be able to move the title anywhere, instead of creating a new element for only one purpose.<br>
   </p>
 
   <p>
