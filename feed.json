@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2024-03-12T14:13:17+01:00",
-            "date_modified": "2024-04-10T10:14:54+02:00"
+            "date_modified": "2024-04-10T10:32:41+02:00"
         },
         {
             "id": "https://nattaratu.dev/ui-editor.html",
@@ -42,8 +42,8 @@
             "id": "https://nattaratu.dev/snabb-grabb.html",
             "url": "https://nattaratu.dev/snabb-grabb.html",
             "title": "Snabb Grabb",
-            "summary": "Details Genre: FPSEngine: Crack Engine (own)Duration: 300 hoursTeam: 5 programmer, 5 artists, 3 designers Contributions UI,&nbsp;UI-EditorComicshaderVFXCardSystemOnline Highscore PostProcessing&nbsp; Player UI,&hellip;",
-            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: FPS</li><li>Engine: Crack Engine (own)</li><li>Duration: 300 hours</li><li>Team: 5 programmer, 5 artists, 3 designers<br></li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI,&nbsp;UI-Editor</li><li>Comicshader</li><li>VFX</li><li>CardSystem</li><li>Online Highscore<br></li><li>PostProcessing&nbsp;</li>\n  </ul>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/4/cards.gif\" height=\"504\" width=\"534\" alt=\"\" >\n      <figcaption>Player UI, pick up cards(abilities), use and swap them, also glitch + disintegrate shader</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/4/las.png\" height=\"882\" width=\"1352\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://nattaratu.dev/media/posts/4/responsive/las-xs.png 384w ,https://nattaratu.dev/media/posts/4/responsive/las-sm.png 600w ,https://nattaratu.dev/media/posts/4/responsive/las-md.png 768w ,https://nattaratu.dev/media/posts/4/responsive/las-lg.png 1200w ,https://nattaratu.dev/media/posts/4/responsive/las-xl.png 1600w\">\n      <figcaption>Line art/Comic shader</figcaption>\n    </figure>",
+            "summary": "Details Genre: FPSEngine: Crack Engine (own)Duration: 300 hoursTeam: 5 programmers, 5 artists, 3 designers Contributions UI,&nbsp;UI-EditorComicshaderVFXCardSystemOnline Highscore PostProcessing&nbsp; Player UI,&hellip;",
+            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: FPS</li><li>Engine: Crack Engine (own)</li><li>Duration: 300 hours</li><li>Team: 5 programmers, 5 artists, 3 designers<br></li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI,&nbsp;UI-Editor</li><li>Comicshader</li><li>VFX</li><li>CardSystem</li><li>Online Highscore<br></li><li>PostProcessing&nbsp;</li>\n  </ul>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/4/cards.gif\" height=\"504\" width=\"534\" alt=\"\" >\n      <figcaption>Player UI, pick up cards(abilities), use and swap them, also glitch + disintegrate shader</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/4/las.png\" height=\"882\" width=\"1352\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://nattaratu.dev/media/posts/4/responsive/las-xs.png 384w ,https://nattaratu.dev/media/posts/4/responsive/las-sm.png 600w ,https://nattaratu.dev/media/posts/4/responsive/las-md.png 768w ,https://nattaratu.dev/media/posts/4/responsive/las-lg.png 1200w ,https://nattaratu.dev/media/posts/4/responsive/las-xl.png 1600w\">\n      <figcaption>Line art/Comic shader</figcaption>\n    </figure>",
             "image": "https://nattaratu.dev/media/posts/4/sg.png",
             "author": {
                 "name": "Nathalie Tuovinen"
@@ -51,14 +51,14 @@
             "tags": [
             ],
             "date_published": "2024-03-12T13:59:59+01:00",
-            "date_modified": "2024-04-09T14:19:04+02:00"
+            "date_modified": "2024-04-10T10:32:46+02:00"
         },
         {
             "id": "https://nattaratu.dev/spite-eternal-night.html",
             "url": "https://nattaratu.dev/spite-eternal-night.html",
             "title": "Spite: Eternal Night",
-            "summary": "Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmer, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh Player&hellip;",
-            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Diablo-like</li><li>Engine: Crack Engine (own)</li><li>Duration: 180 hours</li><li>Team: 6 programmer, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI</li><li>VFX</li><li>Player movement and navmesh</li>\n  </ul>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/3/uingif.gif\" height=\"111\" width=\"600\" alt=\"\" >\n      <figcaption>Player UI</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/3/bnn.gif\" height=\"295\" width=\"600\" alt=\"\" >\n      <figcaption>Bloodnova VFX</figcaption>\n    </figure>",
+            "summary": "Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmers, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh Player&hellip;",
+            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Diablo-like</li><li>Engine: Crack Engine (own)</li><li>Duration: 180 hours</li><li>Team: 6 programmers, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI</li><li>VFX</li><li>Player movement and navmesh</li>\n  </ul>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/3/uingif.gif\" height=\"111\" width=\"600\" alt=\"\" >\n      <figcaption>Player UI</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/3/bnn.gif\" height=\"295\" width=\"600\" alt=\"\" >\n      <figcaption>Bloodnova VFX</figcaption>\n    </figure>",
             "image": "https://nattaratu.dev/media/posts/3/Showcase_0.png",
             "author": {
                 "name": "Nathalie Tuovinen"
@@ -66,14 +66,14 @@
             "tags": [
             ],
             "date_published": "2024-02-27T09:56:23+01:00",
-            "date_modified": "2024-04-10T09:50:31+02:00"
+            "date_modified": "2024-04-10T10:32:50+02:00"
         },
         {
             "id": "https://nattaratu.dev/larmet-gick-1941.html",
             "url": "https://nattaratu.dev/larmet-gick-1941.html",
             "title": "Larmet Gick 1941",
-            "summary": "Details Genre: PuzzleEngine: Crack Engine (own)Duration:&nbsp;80 hoursTeam:&nbsp;6 programmer, 5 artists, 3 designers Contributions Create / setup bare bone engineLibrary implementation&hellip;",
-            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Puzzle</li><li>Engine: Crack Engine (own)</li><li>Duration:&nbsp;80 hours</li><li>Team:&nbsp;6 programmer, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>Create / setup bare bone engine</li><li>Library implementation<br></li><li>Grid</li><li>Player</li>\n  </ul>\n<div><a href=\"https://www.youtube.com/watch?v=s16y1qExd9Q\">Trailer</a></div>",
+            "summary": "Details Genre: PuzzleEngine: Crack Engine (own)Duration:&nbsp;80 hoursTeam:&nbsp;6 programmers, 5 artists, 3 designers Contributions Create / setup bare bone engineLibrary implementation&hellip;",
+            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Puzzle</li><li>Engine: Crack Engine (own)</li><li>Duration:&nbsp;80 hours</li><li>Team:&nbsp;6 programmers, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>Create / setup bare bone engine</li><li>Library implementation<br></li><li>Grid</li><li>Player</li>\n  </ul>\n<div><a href=\"https://www.youtube.com/watch?v=s16y1qExd9Q\">Trailer</a></div>",
             "image": "https://nattaratu.dev/media/posts/2/lg1941-2.png",
             "author": {
                 "name": "Nathalie Tuovinen"
@@ -81,7 +81,7 @@
             "tags": [
             ],
             "date_published": "2024-02-27T09:51:38+01:00",
-            "date_modified": "2024-04-10T09:41:34+02:00"
+            "date_modified": "2024-04-10T10:32:54+02:00"
         }
     ]
 }
