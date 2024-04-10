@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.dev/feed.xml" rel="self" />
     <link href="https://nattaratu.dev" />
-    <updated>2024-04-10T08:34:51+02:00</updated>
+    <updated>2024-04-10T09:39:38+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -239,7 +239,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://nattaratu.dev/media/posts/3/Showcase_0.png" alt="" />
-                    Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmer, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh
+                    Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmer, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh Player&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -261,6 +261,16 @@
   <ul>
     <li>UI</li><li>VFX</li><li>Player movement and navmesh</li>
   </ul>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/3/uigif.gif" height="109" width="421" alt="" >
+      <figcaption>Player UI</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nattaratu.dev/media/posts/3/bn.gif" height="204" width="416" alt="" >
+      <figcaption>Bloodnova VFX</figcaption>
+    </figure>
             ]]>
         </content>
     </entry>
