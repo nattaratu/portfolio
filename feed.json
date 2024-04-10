@@ -58,7 +58,7 @@
             "url": "https://nattaratu.dev/spite-eternal-night.html",
             "title": "Spite: Eternal Night",
             "summary": "Details Genre: Diablo-likeEngine: Crack Engine (own)Duration: 180 hoursTeam: 6 programmer, 5 artists, 3 designers Contributions UIVFXPlayer movement and navmesh Player&hellip;",
-            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Diablo-like</li><li>Engine: Crack Engine (own)</li><li>Duration: 180 hours</li><li>Team: 6 programmer, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI</li><li>VFX</li><li>Player movement and navmesh</li>\n  </ul>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/3/uigif.gif\" height=\"109\" width=\"421\" alt=\"\" >\n      <figcaption>Player UI</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/3/bn.gif\" height=\"204\" width=\"416\" alt=\"\" >\n      <figcaption>Bloodnova VFX</figcaption>\n    </figure>",
+            "content_html": "\n    <h4 id=\"details\">\n      Details\n    </h4>\n\n  <ul>\n    <li>Genre: Diablo-like</li><li>Engine: Crack Engine (own)</li><li>Duration: 180 hours</li><li>Team: 6 programmer, 5 artists, 3 designers</li>\n  </ul>\n\n    <h4 id=\"contributions\">\n      Contributions\n    </h4>\n\n  <ul>\n    <li>UI</li><li>VFX</li><li>Player movement and navmesh</li>\n  </ul>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/3/uingif.gif\" height=\"111\" width=\"600\" alt=\"\" >\n      <figcaption>Player UI</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://nattaratu.dev/media/posts/3/bnn.gif\" height=\"295\" width=\"600\" alt=\"\" >\n      <figcaption>Bloodnova VFX</figcaption>\n    </figure>",
             "image": "https://nattaratu.dev/media/posts/3/Showcase_0.png",
             "author": {
                 "name": "Nathalie Tuovinen"
@@ -66,7 +66,7 @@
             "tags": [
             ],
             "date_published": "2024-02-27T09:56:23+01:00",
-            "date_modified": "2024-04-10T09:41:52+02:00"
+            "date_modified": "2024-04-10T09:50:31+02:00"
         },
         {
             "id": "https://nattaratu.dev/larmet-gick-1941.html",
