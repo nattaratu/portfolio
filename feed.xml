@@ -3,7 +3,7 @@
     <title>Nathalie Tuovinen</title>
     <link href="https://nattaratu.dev/feed.xml" rel="self" />
     <link href="https://nattaratu.dev" />
-    <updated>2024-04-10T07:39:34+02:00</updated>
+    <updated>2024-04-10T08:32:30+02:00</updated>
     <author>
         <name>Nathalie Tuovinen</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2024-03-12T14:13:17+01:00</updated>
             <summary>
                 <![CDATA[
-                    some text text text i like to play valorant I am part of The Game Assembly’s internship program. As per&hellip;
+                    I am currently a game programming student at The Game Assembly, during the second year my main focus has been&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -32,7 +32,7 @@
     </figure>
 
   <p>
-    some text text text i like to play valorant
+    I am currently a game programming student at The Game Assembly, during the second year my main focus has been working on UI/UX in group projects. On my spare time you will find me playing Valorant or starting a new crochet project.
   </p>
 <div><div class="post__iframe">
 <h4 class="post__title">Contact</h4>
@@ -49,6 +49,10 @@
 
   <p class="msg msg--highlight">
     <em>I am part of The Game Assembly’s internship program. As per the agreement between the Game Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd.&nbsp;<br></em><em><br></em><em>Any internship offers can be made on May 6th, at the earliest.</em>
+  </p>
+
+  <p>
+    
   </p>
             ]]>
         </content>
@@ -82,7 +86,7 @@
   </p>
 
   <p>
-    I created a UI Editor with Component system
+    I created the editor as well as the components and the system.
   </p>
 
     <h4 id="ui-editorandnbsp">
@@ -90,7 +94,7 @@
     </h4>
 
   <p class="msg msg--info">
-    Breakdown<br>&nbsp; UI Layout - canvas, the json file<br>&nbsp; UI Handler - saves/loads the layout, updates/renders the elements<br>&nbsp; Element - base object that has a id, name and transform<br>&nbsp; Component - transform and other attributes that fits the components usage<br>
+    Breakdown<br>&nbsp; UI Editor - made with Dear ImGui&nbsp;<br>&nbsp; UI Layout - canvas, json file to store the layout<br>&nbsp; UI Handler - saves/loads the layout, updates/renders the elements<br>&nbsp; Element - base object that has a id, name and transform<br>&nbsp; Component - transform and other attributes that fits the components usage<br>
   </p>
 
   <p class="msg msg--info">
@@ -98,11 +102,15 @@
   </p>
 
   <p class="msg msg--info">
-    Components<br>&nbsp;Sprite<br>&nbsp;Button<br>&nbsp;SpriteSheet<br>&nbsp;SpriteMorph<br>&nbsp;Text<br>&nbsp;TextField
+    Components<br>&nbsp;Sprite<br>&nbsp;Button<br>&nbsp;SpriteSheet<br>&nbsp;SpriteMorph<br>&nbsp;Text<br>&nbsp;TextField<br>
   </p>
 
   <p>
-    Functionality to move an element to front / back / forward / backwards
+    Each element can have multiple components of different types, this work well because the element has a base transform, therefore you can offset the components transform for more flexibility. For example creating a main menu background but also have a text with the game title and be able to move the title anywhere, instead of creating a new element for only one purpose.<br>
+  </p>
+
+  <p>
+    Functionality to move an element to front / back / forward / backwards.
   </p>
 
     <figure class="post__image post__image--center">
@@ -148,7 +156,7 @@
     </figure>
 
   <p>
-    Textfield, when its selected you can type
+    Textfield, when its selected you can type.
   </p>
 
     <figure class="post__image post__image--center">
@@ -161,7 +169,7 @@
     </h4>
 
   <p>
-    &nbsp;- Copy elements / components<br>&nbsp;- Parent / Child hierarchy&nbsp;<br>&nbsp;- Add more components such as animation (size/rotation/position)
+    &nbsp;- Copy / paste elements / components<br>&nbsp;- Parent / Child hierarchy like Unity for a cleaner hierarchy<br>&nbsp;- Add more components such as slider and animation (for the transform)
   </p>
 
   <p>
